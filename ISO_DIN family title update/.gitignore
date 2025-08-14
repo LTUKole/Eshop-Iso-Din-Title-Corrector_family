@@ -1,0 +1,7 @@
+﻿# Ignore the settings file that contains secrets
+appsettings.json
+
+# Standard Visual Studio and .NET ignores
+*.vs
+[Bb]in/
+[Oo]bj/
